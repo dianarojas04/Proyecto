@@ -1,5 +1,10 @@
 # Proyecto
 
+## Integrantes
+Juan Carlos Cañón Cárdenas 
+Ibsen Anneth Sánchez Hernández
+Diana Carolina Rojas Orjuela
+
 ## Descripción
 Este proyecto utiliza técnicas de procesamiento de imágenes para diagnosticar glaucoma a partir de imágenes de fondo de ojo. El glaucoma es una enfermedad ocular grave que puede llevar a ceguera irreversible si no se detecta a tiempo. El objetivo principal es calcular la relación copa-disco (CDR), un parámetro clave para evaluar la presencia de glaucoma. Este trabajo se basa en el análisis de imágenes del dataset ORIGA-light.
 
