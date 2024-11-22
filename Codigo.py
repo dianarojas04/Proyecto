@@ -1,3 +1,8 @@
+#Integrantes
+#Juan Carlos Cañón Cárdenas 
+#Ibsen Anneth Sánchez Hernández
+#Diana Carolina Rojas Orjuela
+
 from matplotlib import pyplot as plt
 import cv2
 import numpy as np
